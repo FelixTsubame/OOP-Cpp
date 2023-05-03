@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\新作業用\oop\lab2\0710028_陳敬諺\0710028_陳敬諺\source.cpp(47): error C2440: '正在初始化': 無法由 'initializer list' 轉換為 'my_class'
+  d:\新作業用\oop\lab2\0710028_陳敬諺\0710028_陳敬諺\source.cpp(47): note: 沒有可以取得來源類型的建構函式，或建構函式多載解析模稜兩可
+d:\新作業用\oop\lab2\0710028_陳敬諺\0710028_陳敬諺\source.cpp(48): error C2660: 'my_class::getGcdLcm': 函式不使用 2 引數
+  d:\新作業用\oop\lab2\0710028_陳敬諺\0710028_陳敬諺\source.cpp(27): note: 請參閱 'my_class::getGcdLcm' 的宣告

@@ -1,0 +1,15 @@
+﻿  mySystem_StudentRecordManager.cpp
+d:\新作業用\oop\oop_hw01_solution_net2010_201902_template\inc\gl\gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\新作業用\oop\oop_hw01_solution_net2010_201902_template\inc\gl\gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\新作業用\oop\oop_hw01_solution_net2010_201902_template\00_studentwork\00_simpleinteractivesystem\mysystem_studentrecordmanager.cpp(58): warning C4018: '<': signed/unsigned 不相符
+d:\新作業用\oop\oop_hw01_solution_net2010_201902_template\00_studentwork\00_simpleinteractivesystem\mysystem_studentrecordmanager.cpp(70): warning C4018: '<': signed/unsigned 不相符
+d:\新作業用\oop\oop_hw01_solution_net2010_201902_template\00_studentwork\00_simpleinteractivesystem\mysystem_studentrecordmanager.cpp(73): warning C4018: '<': signed/unsigned 不相符
+d:\新作業用\oop\oop_hw01_solution_net2010_201902_template\00_studentwork\00_simpleinteractivesystem\mysystem_studentrecordmanager.cpp(96): warning C4018: '<': signed/unsigned 不相符
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\新作業用\OOP\OOP_HW01_Solution_NET2010_201902_Template\Release\myFirstSystem.exe) 與 Linker 的 OutputFile 屬性值 (D:\新作業用\OOP\OOP_HW01_Solution_NET2010_201902_Template\bin\Release\enjoy_programming.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(myFirstSystem) 與 Linker 的 OutputFile 屬性值 (enjoy_programming) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  正在產生程式碼
+  7 of 507 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  asm.vcxproj -> D:\新作業用\OOP\OOP_HW01_Solution_NET2010_201902_Template\Release\myFirstSystem.exe

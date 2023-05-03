@@ -1,0 +1,5 @@
+﻿  HugeInteger.cpp
+d:\新作業用\oop\lab5\0710028_陳敬諺\hugeinteger.cpp(30): warning C4018: '<': signed/unsigned 不相符
+d:\新作業用\oop\lab5\0710028_陳敬諺\hugeinteger.cpp(56): warning C4018: '<': signed/unsigned 不相符
+d:\新作業用\oop\lab5\0710028_陳敬諺\hugeinteger.cpp(83): warning C4018: '<': signed/unsigned 不相符
+  0710028_陳敬諺.vcxproj -> D:\新作業用\OOP\lab5\0710028_陳敬諺\Debug\0710028_陳敬諺.exe
